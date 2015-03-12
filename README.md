@@ -5,6 +5,12 @@ Ever wanted a quick overview of man page contents?
 Bro, I got you!
 
 
+## Install
+
+Download the script, make it executable, move it somewhere
+in your PATH.
+
+
 ## Usage
 
 bro is just a simple wrapper for the man command, so just
