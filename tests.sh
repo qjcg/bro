@@ -2,7 +2,7 @@
 
 source _vendor/assert.sh/assert.sh
 
-test_data="_test_data"
+test_data="./_test_data"
 bro=./bro
 
 # section
